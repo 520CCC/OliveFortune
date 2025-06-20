@@ -1,7 +1,7 @@
 // 获取配置并处理
 async function fetchConfig() {
     try {
-        const response = await fetch('https://raw.githubusercontent.com/520CCC/bbbbbbb/main/home.json', {
+        const response = await fetch('https://raw.githubusercontent.com/520CCC/rrrrrrr/main/home.json', {
             headers: {
                 'Accept': 'application/json',
                 'Content-Type': 'application/json'
